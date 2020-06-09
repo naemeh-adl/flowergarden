@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flowergarden/static/css/main.c0a80790.chunk.css",
+    "main.js": "/flowergarden/static/js/main.0a12e69f.chunk.js",
+    "main.js.map": "/flowergarden/static/js/main.0a12e69f.chunk.js.map",
+    "runtime-main.js": "/flowergarden/static/js/runtime-main.d3f3a490.js",
+    "runtime-main.js.map": "/flowergarden/static/js/runtime-main.d3f3a490.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/flowergarden/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8a72b117.chunk.js": "/flowergarden/static/js/2.8a72b117.chunk.js",
+    "static/js/2.8a72b117.chunk.js.map": "/flowergarden/static/js/2.8a72b117.chunk.js.map",
+    "index.html": "/flowergarden/index.html",
+    "precache-manifest.dc05931323d03a3e2eabc4a84da9c890.js": "/flowergarden/precache-manifest.dc05931323d03a3e2eabc4a84da9c890.js",
+    "service-worker.js": "/flowergarden/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/flowergarden/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.c0a80790.chunk.css.map": "/flowergarden/static/css/main.c0a80790.chunk.css.map",
+    "static/js/2.8a72b117.chunk.js.LICENSE.txt": "/flowergarden/static/js/2.8a72b117.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3f3a490.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8a72b117.chunk.js",
+    "static/css/main.c0a80790.chunk.css",
+    "static/js/main.0a12e69f.chunk.js"
+  ]
+}
