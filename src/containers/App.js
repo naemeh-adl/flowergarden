@@ -3,6 +3,7 @@ import CardList from '../components/CardList';
 import {flowers} from '../Flowers';
 import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
+import ErrorBoundry from '../containers/ErrorBoundry';
 import './App.css'
 class App extends Component{
     constructor(){
@@ -33,7 +34,9 @@ render(){
         <h1 className='f1'>Flower Garden</h1>
         <SearchBox onMyChange={this.onMySearchChange}/>
         <Scroll>
+            <ErrorBoundry>
         <CardList flowers={filteredFlowers}/>
+        </ErrorBoundry>
         </Scroll>
     </div>
     
